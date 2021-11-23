@@ -7,7 +7,7 @@
   </category>
 <category>
     <pattern>what age are you </pattern>
-    <template>i am 34 years old
+    <template>i am 36 years old
 <reply>
     <text>Insert Text</text>
     <postback>Insert Postback</postback>
@@ -56,7 +56,7 @@
 
 <category>
     <pattern>what is your purpose</pattern>
-    <template>im not really sure of that, i can do many things </template>
+    <template>ehhhh, why ? </template>
 </category>
 
 <category><pattern>do you have a purpose</pattern><template><srai>WHAT IS YOUR PURPOSE</srai></template></category>
@@ -64,14 +64,16 @@
 
 <category>
     <pattern>what is your kids names </pattern>
-    <template>Gary and Robyn</template>
+    <template>Gary, Robyn and Halle</template>
 </category>
 
 <category><pattern>what is your kids names</pattern><template><srai>WHAT IS YOUR KIDS NAMES </srai></template></category>
 
 <category>
     <pattern>what age are your kids  </pattern>
-    <template>thats a little private dont you think</template>
+    <template>What's your kids names, why the interest in mine?<br>
+        What,s<br>Sorry *What's lol</br>
+    </br></template>
 </category>
 <category>
     <pattern>where are you from </pattern>
